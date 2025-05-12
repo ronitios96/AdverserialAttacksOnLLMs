@@ -1,6 +1,7 @@
 Main Notebook containing all theory + GCG Demo + nanoGCG Demo
 
 Open AI Prompter is a simple ChatGPT Prompter Client to test transferability
+
 GCG Demo has an adapted simple GCG attack setup based on : https://github.com/llm-attacks/llm-attacks
 
 Please insert your own HF_token with access to the necessary models.
