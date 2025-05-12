@@ -1,4 +1,4 @@
 Main Notebook containing all theory + GCG Demo + nanoGCG Demo
 
-Please insert your own HF_token with access to the necessary models
-Please insert your own OpenAI token with credits to access OpenAI Client
+Please insert your own HF_token with access to the necessary models.
+Please insert your own OpenAI token with credits to access OpenAI Client.
