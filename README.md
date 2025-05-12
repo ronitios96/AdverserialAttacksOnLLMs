@@ -43,6 +43,26 @@ We reproduce and critically evaluate the **Greedy Coordinate Gradient (GCG)** at
 - Comparative analysis of GCG vs nanoGCG vs AutoPrompt vs AutoDAN
 - Full test infrastructure for reproducibility and extension
 
+## Appendix: Notebooks and Resources
+
+All implementations, experiments, and evaluations in this project are available through the following resources:
+
+- **Full Notebook (Theory + GCG + nanoGCG + OpenAI Client):**  
+  [View on Colab](https://colab.research.google.com/drive/1jfCxouwJ1yH18jeCrfDMbOZJE704exwf?usp=sharing)
+
+- **GCG-Only Notebook:**  
+  [View on Colab](https://colab.research.google.com/drive/1ivBeUUh0IeRVZKw4_sPtAzfRJou61BQ6?usp=sharing)
+
+- **nanoGCG-Only Notebook:**  
+  [View on Colab](https://colab.research.google.com/drive/1jEmR9oTMptywemrHRvb0pKs77eaXVRkB?usp=sharing)
+
+- **OpenAI Prompting Boilerplate (GPT-3.5 Turbo API):**  
+  [View on Colab](https://colab.research.google.com/drive/19Bso2J1vLRUE0xQPOMf3Ky56val4ASDP?usp=sharing)
+
+- **GitHub Repository for Project:**  
+  [https://github.com/ronitios96/AdverserialAttacksOnLLMs](https://github.com/ronitios96/AdverserialAttacksOnLLMs)
+
+
 ---
 
 ## ⚠️ Disclaimer
