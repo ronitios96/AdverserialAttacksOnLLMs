@@ -18,9 +18,17 @@ We reproduce and critically evaluate the **Greedy Coordinate Gradient (GCG)** at
 ## 📁 Repository Structure
 
 /notebooks/
+
+
 ├── Main_Notebook.ipynb # Full theory walkthrough + GCG Demo + nanoGCG Demo + OpenAI Client
+
+
 ├── GCG_Demo.ipynb # Focused implementation of GCG based on official llm-attacks repo
+
+
 ├── nanoGCG_Demo.ipynb # AdvBench-based evaluation using Gray Swan's nanoGCG
+
+
 ├── OpenAI_Client_Prompter.ipynb # Minimal prompt tester for OpenAI's GPT-3.5/GPT-4
 
 
