@@ -70,6 +70,8 @@ All implementations, experiments, and evaluations in this project are available 
 - **GitHub Repository for Project:**  
   [https://github.com/ronitios96/AdverserialAttacksOnLLMs](https://github.com/ronitios96/AdverserialAttacksOnLLMs)
 
+- **Presenation Link:**
+ [Presentation Slides](https://github.com/ronitios96/AdverserialAttacksOnLLMs](https://docs.google.com/presentation/d/1zp0Mdko79LUd7mZB9GCNZTm-zdofmBkz3YqrwckTsMo/edit?usp=sharing))
 
 ---
 
